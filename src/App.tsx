@@ -65,7 +65,7 @@ function App() {
               <div className="relative flex-shrink-0">
                 <div className="absolute inset-0 bg-[#D4A017] rounded-2xl blur-xl opacity-40 scale-105"></div>
                 <img
-                  src="../icons/logo.jpg"
+                  src="../public/icons/logo.jpg"
                   className="h-24 w-24 sm:h-32 sm:w-32 relative rounded-2xl shadow-lg border-2 border-[#F8EDE3]/30 transition-transform duration-300 hover:scale-105"
                 />
               </div>
